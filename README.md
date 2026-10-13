@@ -20,11 +20,11 @@ HATEOAS is a REST constraint in which API responses provide links or controls th
 
 The [`examples/accounts/`](examples/accounts/) directory contains command-line clients for an accounts API. The clients can query an account, deposit funds, or withdraw funds. They expect the API server to be running at `http://localhost:8000`.
 
-- [Bash client]({{ '/examples/accounts/account.sh' | relative_url }})
-- [Python 3 client]({{ '/examples/accounts/account.py' | relative_url }})
-- [Node.js client]({{ '/examples/accounts/account.mjs' | relative_url }})
-- [Browse all account examples]({{ '/examples/accounts/' | relative_url }})
-- [Accounts example readme]({{ 'examples/accounts/README.md' | relative_url }})
+- [Bash client](https://github.com/notweerdmonk/awesome-HATEOAS/blob/master/examples/accounts/account.sh)
+- [Python 3 client](https://github.com/notweerdmonk/awesome-HATEOAS/blob/master/examples/accounts/account.py)
+- [Node.js client](https://github.com/notweerdmonk/awesome-HATEOAS/blob/master/examples/accounts/account.mjs)
+- [Browse account example](https://github.com/notweerdmonk/awesome-HATEOAS/blob/master/examples/accounts/)
+- [Accounts example readme](https://github.com/notweerdmonk/awesome-HATEOAS/blob/master/examples/accounts/README.md)
 
 Example commands:
 
